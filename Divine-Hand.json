@@ -28,12 +28,18 @@
 			"classSource": "PHB",
 			"shortName": "Divine Hand",
 			"page": 1,
-			"subclassFeatures": [
+            "subclassFeatures": [
 				"Divine Hand|Rogue||Divine Hand|Divine Hand|3",
 				"Divine Guidance|Rogue||Divine Hand|Divine Hand|9",
 				"Piercing Gaze|Rogue||Divine Hand|Divine Hand|13",
 				"Conviction|Rogue||Divine Hand|Divine Hand|17"
-			],
+            ],
+            "subclassSpells": [
+                {
+                    "className": "Cleric",
+                    "classSource": "PHB"
+                }
+            ],
 			"casterProgression": "1/3",
 			"spellcastingAbility": "wis",
 			"spellsKnownProgression": [
